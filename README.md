@@ -1,5 +1,5 @@
-<H3>Name : Keerthi Vasan A</H3>
-<H3>REGISTER NO: 212222240048</H3>
+<H3>Name : M SRINATH</H3>
+<H3>REGISTER NO: 212222230147</H3>
 <H3>EX. NO.1</H3>
 
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
